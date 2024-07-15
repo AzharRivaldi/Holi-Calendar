@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#EC2D2D</color>
+    <color name="colorPrimary">#FFCBC8</color>
+    <color name="colorPrimaryDark">#FFF9D9</color>
+    <color name="colorAccent">#D3EEED</color>
+    <color name="colorAccentDark">#EBDAFE</color>
+    <color name="colorGrayLight">#DBDBDB</color>
+
+    <integer-array name="cardview_color">
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorAccent</item>
+        <item>@color/colorAccentDark</item>
+        <item>@color/colorGrayLight</item>
+    </integer-array>
+</resources>

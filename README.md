@@ -5,9 +5,9 @@ Tutorial Membuat Aplikasi Kalender Cuti dengan Android Studio
 https://youtu.be/FPcJN7c1yhg
 
 # Tutorial Build with Step by Step
-https://rivaldi48.blogspot.com/2024/07/tutorial-membuat-aplikasi-kalender-cuti-dengan-android-studio.html
+https://rivaldi48.blogspot.com/2024/08/tutorial-membuat-aplikasi-calculate-date-dengan-android-studio.html
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq6p9I3WIQZWzQN33BlkbZdY7_bXxLU4Z97X3lPfuXoUpE7VXiEqwTUzlUOLs64CeCZMGW__8aP4cdlACBOBl0e7hprR3jkPRF_RbG3zrO-oEoMbW-r42yHRhrQAkmP1iYV7fJV-Kt5KIy8RtExpdB1eN7Q0u0ZHHGhLotDcC4zVPuh36sGRwTpNzJ8PhR/s1280/Tutorial%20Membuat%20Aplikasi%20Kalender%20Cuti%20dengan%20Android%20Studio.png" data-canonical-src="https://rivaldi48.blogspot.com/2024/07/tutorial-membuat-aplikasi-kalender-cuti-dengan-android-studio.html" style="max-width:100%;">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg4jxeEJQQObBOWn2wU-04YWaL0wYRqpCLW3yPLO7SWtILR2V3osc1B3SWazD7XJgIPBStWPzid-VNvaQZHYZHcoZAWR9223w1CawzU5dXxF7kpaaLeDKVw8GrFrRNPcbpPN3nxfNzuZWMsREWZzNPFhDDRHWta6fW9hzluYZ2NySPYHoCWCx980Ho0Blr/s1280/Tutorial%20Membuat%20Aplikasi%20Calculate%20Date%20dengan%20Android%20Studio.png" data-canonical-src="https://rivaldi48.blogspot.com/2024/08/tutorial-membuat-aplikasi-calculate-date-dengan-android-studio.html" style="max-width:100%;">
 
 ****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
 

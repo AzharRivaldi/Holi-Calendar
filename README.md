@@ -2,7 +2,7 @@
 Tutorial Membuat Aplikasi Kalender Cuti dengan Android Studio
 
 # Tutorial Build with Android Studio
-https://youtu.be/rbZfdeLAIvs
+https://youtu.be/-rHUbR94dYQ
 
 # Tutorial Build with Step by Step
 https://rivaldi48.blogspot.com/2024/07/tutorial-membuat-aplikasi-kalender-cuti-dengan-android-studio.html
